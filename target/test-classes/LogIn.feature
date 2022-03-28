@@ -12,15 +12,16 @@ Feature: As a end user I want to test Login is working as required
     Examples:
       | username                   |   password        |
       | standard_user              |   secret_sauce    |
+      | locked_out_user            |   secret_sauce    |
+      | problem_user               |   secret_sauce    |
+      | performance_glitch_user    |   secret_sauce    |
+      | Standard_user              |   secret_sauce    |
+      | standard_user              |   Secret_sauce    |
 
 
 
 
-  Scenario:
-    Given User enter login credentials and is on home page
-    When User search for random product
-    And Add it to the cart
-    Then User should be able to see all the respective products in the cart
+
 
 
 

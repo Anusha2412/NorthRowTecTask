@@ -33,7 +33,7 @@ public class HomePage extends DriversFactory {
         int productSize = productWebElements.size();
 
         Random random = new Random();
-        int randomNumb = random.nextInt(5);
+        int randomNumb = random.nextInt(3);
 
        WebElement selectedElement = productWebElements.get(randomNumb);
       String selectedProductName=  selectedElement.getText();
@@ -42,6 +42,8 @@ public class HomePage extends DriversFactory {
       return selectedProductName;
 
     }
+
+
 
 
 

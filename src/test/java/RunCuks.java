@@ -8,7 +8,8 @@ import org.junit.runner.RunWith;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-        features = "src/test/resources/Search.Feature",
+        //features = "src/test/resources/Search.Feature",
+        features = "src/test/resources/Login.Feature",
         dryRun = false,
         strict = false,
         plugin = {"json:target/cucumber.json"}
