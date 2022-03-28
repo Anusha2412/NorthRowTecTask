@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f176b18f-7c66-429e-8f2e-d3b734d50e59" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="NorthRowTecTask" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="270eW1UlDgUDrU68IFBVSpnoVjj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
+  </component>
+  <component name="RunManager" selected="JUnit.RunCuks">
+    <configuration name="Feature: LogIn" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/LogIn.feature" />
+      <option name="GLUE" value="stepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="NorthRowTecTask" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: LogIn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: Search" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/Search.Feature" />
+      <option name="GLUE" value="stepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="NorthRowTecTask" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: Search" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Search" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/LogIn.feature" />
+      <option name="GLUE" value="stepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="NorthRowTecTask" />
+      <option name="NAME_FILTER" value="^Search$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Search$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Search" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: " type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/LogIn.feature" />
+      <option name="GLUE" value="stepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="NorthRowTecTask" />
+      <option name="NAME_FILTER" value="^$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: " />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunCuks" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="NorthRowTecTask" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RunCuks" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RunCuks" />
+        <item itemvalue="Cucumber java.Scenario: " />
+        <item itemvalue="Cucumber java.Scenario: Search" />
+        <item itemvalue="Cucumber java.Feature: Search" />
+        <item itemvalue="Cucumber java.Feature: LogIn" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f176b18f-7c66-429e-8f2e-d3b734d50e59" name="Default Changelist" comment="" />
+      <created>1648461459267</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648461459267</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="100" y="123" width="1240" height="677" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1648479048899">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="100" y="123" width="1240" height="677" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1440.877@0.23.1440.877" timestamp="1648479048899" />
+    <state x="445" y="271" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1648462143391">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="445" y="271" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877@0.23.1440.877" timestamp="1648462143391" />
+    <state width="1398" height="230" key="GridCell.Tab.0.bottom" timestamp="1648481894204">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="230" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1648481894204" />
+    <state width="1398" height="230" key="GridCell.Tab.0.center" timestamp="1648481894203">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="230" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1648481894203" />
+    <state width="1398" height="230" key="GridCell.Tab.0.left" timestamp="1648481894203">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="230" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1648481894203" />
+    <state width="1398" height="230" key="GridCell.Tab.0.right" timestamp="1648481894204">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="230" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1648481894204" />
+    <state width="1398" height="285" key="GridCell.Tab.1.bottom" timestamp="1648480932756">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="285" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1648480932756" />
+    <state width="1398" height="285" key="GridCell.Tab.1.center" timestamp="1648480932754">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="285" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1648480932754" />
+    <state width="1398" height="285" key="GridCell.Tab.1.left" timestamp="1648480932753">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="285" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1648480932753" />
+    <state width="1398" height="285" key="GridCell.Tab.1.right" timestamp="1648480932755">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="285" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1648480932755" />
+    <state x="374" y="296" key="com.intellij.ide.util.TipDialog" timestamp="1648461464364">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="374" y="296" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1648461464364" />
+  </component>
+</project>

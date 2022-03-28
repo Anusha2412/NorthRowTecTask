@@ -1,0 +1,82 @@
+[
+  {
+    "line": 3,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 2878332310,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUpBrowser()"
+            }
+          }
+        ],
+        "line": 5,
+        "name": "",
+        "description": "",
+        "id": "search-random-product;",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 593431254,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User enter login credentials and is on home page",
+            "match": {
+              "location": "Steps.i_am_on_home_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2100509254,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User search for random product",
+            "match": {
+              "location": "Steps.i_search_for_random_product()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2050901599,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "Add it to the cart",
+            "match": {
+              "location": "Steps.add_then_to_the_basket()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2095153133,
+              "error_message": "java.lang.IndexOutOfBoundsException: Index: 2, Size: 1\n\tat java.util.ArrayList.rangeCheck(ArrayList.java:657)\n\tat java.util.ArrayList.get(ArrayList.java:433)\n\tat pageClasses.HomePage.selectAnyProduct(HomePage.java:38)\n\tat stepDefinitions.Steps.i_should_be_able_to_see_all_the_respective_products_in_the_cart(Steps.java:87)\n\tat ✽.Then User should be able to see all the respective products in the cart(src/test/resources/Search.Feature:9)\n",
+              "status": "failed"
+            },
+            "line": 9,
+            "name": "User should be able to see all the respective products in the cart",
+            "match": {
+              "location": "Steps.i_should_be_able_to_see_all_the_respective_products_in_the_cart()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Search random Product",
+    "description": "",
+    "id": "search-random-product",
+    "keyword": "Feature",
+    "uri": "src/test/resources/Search.Feature"
+  }
+]
