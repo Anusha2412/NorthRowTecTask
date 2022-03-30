@@ -6,7 +6,7 @@
         "before": [
           {
             "result": {
-              "duration": 3142916466,
+              "duration": 5211441293,
               "status": "passed"
             },
             "match": {
@@ -23,7 +23,7 @@
         "steps": [
           {
             "result": {
-              "duration": 203684499,
+              "duration": 392916888,
               "status": "passed"
             },
             "line": 7,
@@ -35,7 +35,7 @@
           },
           {
             "result": {
-              "duration": 330043053,
+              "duration": 502032061,
               "status": "passed"
             },
             "line": 8,
@@ -61,7 +61,7 @@
           },
           {
             "result": {
-              "duration": 189687000,
+              "duration": 164037216,
               "status": "passed"
             },
             "line": 9,
@@ -73,7 +73,7 @@
           },
           {
             "result": {
-              "duration": 5028849963,
+              "duration": 5033405673,
               "status": "passed"
             },
             "line": 10,
@@ -95,7 +95,7 @@
         "before": [
           {
             "result": {
-              "duration": 1688437965,
+              "duration": 2033554926,
               "status": "passed"
             },
             "match": {
@@ -112,7 +112,7 @@
         "steps": [
           {
             "result": {
-              "duration": 19757666,
+              "duration": 10862868,
               "status": "passed"
             },
             "line": 7,
@@ -124,7 +124,7 @@
           },
           {
             "result": {
-              "duration": 414640390,
+              "duration": 361094541,
               "status": "passed"
             },
             "line": 8,
@@ -150,7 +150,7 @@
           },
           {
             "result": {
-              "duration": 121915898,
+              "duration": 109998831,
               "status": "passed"
             },
             "line": 9,
@@ -162,7 +162,7 @@
           },
           {
             "result": {
-              "duration": 8020659481,
+              "duration": 45273183878,
               "error_message": "org.openqa.selenium.NoSuchElementException: Cannot locate an element using xpath\u003d//span[contains(text(),\u0027Products\u0027)]\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: \u00273.141.59\u0027, revision: \u0027e82be7d358\u0027, time: \u00272018-11-14T08:17:03\u0027\nSystem info: host: \u0027Sivas-MacBook-Pro.local\u0027, ip: \u0027192.168.1.167\u0027, os.name: \u0027Mac OS X\u0027, os.arch: \u0027x86_64\u0027, os.version: \u002710.15.7\u0027, java.version: \u00271.8.0_231\u0027\nDriver info: driver.version: RemoteWebDriver\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:327)\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)\n\tat org.openqa.selenium.By$ByXPath.findElement(By.java:353)\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)\n\tat org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)\n\tat org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)\n\tat com.sun.proxy.$Proxy16.getText(Unknown Source)\n\tat pageClasses.HomePage.GetTitle(HomePage.java:63)\n\tat stepDefinitions.Steps.user_should_login_successfully(Steps.java:54)\n\tat ✽.Then User should login successfully(src/test/resources/Login.Feature:10)\n",
               "status": "failed"
             },
@@ -185,7 +185,7 @@
         "before": [
           {
             "result": {
-              "duration": 2039623842,
+              "duration": 2321234038,
               "status": "passed"
             },
             "match": {
@@ -202,7 +202,7 @@
         "steps": [
           {
             "result": {
-              "duration": 11603676,
+              "duration": 10240508,
               "status": "passed"
             },
             "line": 7,
@@ -214,7 +214,7 @@
           },
           {
             "result": {
-              "duration": 377459164,
+              "duration": 373410819,
               "status": "passed"
             },
             "line": 8,
@@ -240,7 +240,7 @@
           },
           {
             "result": {
-              "duration": 147862108,
+              "duration": 152989397,
               "status": "passed"
             },
             "line": 9,
@@ -252,7 +252,7 @@
           },
           {
             "result": {
-              "duration": 5063133262,
+              "duration": 5022710290,
               "status": "passed"
             },
             "line": 10,
@@ -274,7 +274,7 @@
         "before": [
           {
             "result": {
-              "duration": 2385280346,
+              "duration": 1993534133,
               "status": "passed"
             },
             "match": {
@@ -291,7 +291,7 @@
         "steps": [
           {
             "result": {
-              "duration": 9464956,
+              "duration": 10442609,
               "status": "passed"
             },
             "line": 7,
@@ -303,7 +303,7 @@
           },
           {
             "result": {
-              "duration": 472680524,
+              "duration": 312144006,
               "status": "passed"
             },
             "line": 8,
@@ -329,7 +329,7 @@
           },
           {
             "result": {
-              "duration": 5180591759,
+              "duration": 5140399909,
               "status": "passed"
             },
             "line": 9,
@@ -341,7 +341,7 @@
           },
           {
             "result": {
-              "duration": 5040575140,
+              "duration": 5025190708,
               "status": "passed"
             },
             "line": 10,
@@ -363,7 +363,7 @@
         "before": [
           {
             "result": {
-              "duration": 2095513285,
+              "duration": 2346471357,
               "status": "passed"
             },
             "match": {
@@ -380,7 +380,7 @@
         "steps": [
           {
             "result": {
-              "duration": 7868747,
+              "duration": 16293916,
               "status": "passed"
             },
             "line": 7,
@@ -392,7 +392,7 @@
           },
           {
             "result": {
-              "duration": 330818871,
+              "duration": 537283519,
               "status": "passed"
             },
             "line": 8,
@@ -418,7 +418,7 @@
           },
           {
             "result": {
-              "duration": 88756151,
+              "duration": 76633935,
               "status": "passed"
             },
             "line": 9,
@@ -430,7 +430,7 @@
           },
           {
             "result": {
-              "duration": 11223704304,
+              "duration": 62269482781,
               "error_message": "org.openqa.selenium.NoSuchElementException: Cannot locate an element using xpath\u003d//span[contains(text(),\u0027Products\u0027)]\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: \u00273.141.59\u0027, revision: \u0027e82be7d358\u0027, time: \u00272018-11-14T08:17:03\u0027\nSystem info: host: \u0027Sivas-MacBook-Pro.local\u0027, ip: \u0027192.168.1.167\u0027, os.name: \u0027Mac OS X\u0027, os.arch: \u0027x86_64\u0027, os.version: \u002710.15.7\u0027, java.version: \u00271.8.0_231\u0027\nDriver info: driver.version: RemoteWebDriver\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:327)\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)\n\tat org.openqa.selenium.By$ByXPath.findElement(By.java:353)\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)\n\tat org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)\n\tat org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)\n\tat com.sun.proxy.$Proxy16.getText(Unknown Source)\n\tat pageClasses.HomePage.GetTitle(HomePage.java:63)\n\tat stepDefinitions.Steps.user_should_login_successfully(Steps.java:54)\n\tat ✽.Then User should login successfully(src/test/resources/Login.Feature:10)\n",
               "status": "failed"
             },
@@ -453,7 +453,7 @@
         "before": [
           {
             "result": {
-              "duration": 1937463001,
+              "duration": 2081795439,
               "status": "passed"
             },
             "match": {
@@ -470,7 +470,7 @@
         "steps": [
           {
             "result": {
-              "duration": 12057436,
+              "duration": 16241968,
               "status": "passed"
             },
             "line": 7,
@@ -482,7 +482,7 @@
           },
           {
             "result": {
-              "duration": 459167334,
+              "duration": 383750130,
               "status": "passed"
             },
             "line": 8,
@@ -508,7 +508,7 @@
           },
           {
             "result": {
-              "duration": 113421607,
+              "duration": 81064762,
               "status": "passed"
             },
             "line": 9,
@@ -520,8 +520,8 @@
           },
           {
             "result": {
-              "duration": 5030354880,
-              "error_message": "org.openqa.selenium.NoSuchWindowException: no such window: window was already closed\n  (Session info: chrome\u003d99.0.4844.84)\nBuild info: version: \u00273.141.59\u0027, revision: \u0027e82be7d358\u0027, time: \u00272018-11-14T08:17:03\u0027\nSystem info: host: \u0027Sivas-MacBook-Pro.local\u0027, ip: \u0027192.168.1.167\u0027, os.name: \u0027Mac OS X\u0027, os.arch: \u0027x86_64\u0027, os.version: \u002710.15.7\u0027, java.version: \u00271.8.0_231\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 99.0.4844.84, chrome: {chromedriverVersion: 99.0.4844.51 (d537ec02474b5..., userDataDir: /var/folders/74/x4y0nyk10h5...}, goog:chromeOptions: {debuggerAddress: localhost:60711}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: a9532a3a9f78bd1348353990c1528ed5\n*** Element info: {Using\u003dxpath, value\u003d//span[contains(text(),\u0027Products\u0027)]}\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)\n\tat org.openqa.selenium.By$ByXPath.findElement(By.java:353)\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)\n\tat org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)\n\tat org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)\n\tat com.sun.proxy.$Proxy16.getText(Unknown Source)\n\tat pageClasses.HomePage.GetTitle(HomePage.java:63)\n\tat stepDefinitions.Steps.user_should_login_successfully(Steps.java:54)\n\tat ✽.Then User should login successfully(src/test/resources/Login.Feature:10)\n",
+              "duration": 199569003508,
+              "error_message": "org.openqa.selenium.NoSuchElementException: Cannot locate an element using xpath\u003d//span[contains(text(),\u0027Products\u0027)]\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: \u00273.141.59\u0027, revision: \u0027e82be7d358\u0027, time: \u00272018-11-14T08:17:03\u0027\nSystem info: host: \u0027Sivas-MacBook-Pro.local\u0027, ip: \u0027192.168.1.167\u0027, os.name: \u0027Mac OS X\u0027, os.arch: \u0027x86_64\u0027, os.version: \u002710.15.7\u0027, java.version: \u00271.8.0_231\u0027\nDriver info: driver.version: RemoteWebDriver\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:327)\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)\n\tat org.openqa.selenium.By$ByXPath.findElement(By.java:353)\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)\n\tat org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)\n\tat org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)\n\tat com.sun.proxy.$Proxy16.getText(Unknown Source)\n\tat pageClasses.HomePage.GetTitle(HomePage.java:63)\n\tat stepDefinitions.Steps.user_should_login_successfully(Steps.java:54)\n\tat ✽.Then User should login successfully(src/test/resources/Login.Feature:10)\n",
               "status": "failed"
             },
             "line": 10,

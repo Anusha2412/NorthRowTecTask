@@ -12,7 +12,9 @@ import org.junit.runner.RunWith;
         features = "src/test/resources/Login.Feature",
         dryRun = false,
         strict = false,
-        plugin = {"json:target/cucumber.json"}
+        plugin = {"json:target/cucumber.json",
+                "pretty", "html:reports/myreports.html",
+                "rerun:target/rerun.txt"}
 
 )
 
